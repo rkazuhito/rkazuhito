@@ -1,7 +1,7 @@
 ### Olá, eu sou o Rafael Kazuhito!
 
 - 🌱 no momento estudando HTML, CSS e JavaScript
-- 😊 cursando programação FullStack pelo SENAI SP
+- 😊 cursando Análise e desenvolvimento de sistemas
 
 <div align="center">
   <a href="https://github.com/rkazuhito">
