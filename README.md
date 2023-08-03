@@ -1,7 +1,7 @@
 ### Olá, eu sou o Rafael Kazuhito!
 
-- 🌱 no momento estudando HTML, CSS e JavaScript
-- 😊 cursando Análise e desenvolvimento de sistemas
+-  Estudando HTML, CSS e JavaScript
+-  Cursando Análise e desenvolvimento de sistemas
 
 <div align="center">
   <a href="https://github.com/rkazuhito">
