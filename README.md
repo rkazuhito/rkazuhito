@@ -1,6 +1,6 @@
 ### Olá, eu sou o Rafael Kazuhito!
 
--  Estudando HTML, CSS e JavaScript
+-  Estudando HTML, CSS, PHP e JavaScript
 -  Cursando Análise e desenvolvimento de sistemas
 
 <div align="center">
