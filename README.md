@@ -1,7 +1,8 @@
 ### Olá, eu sou o Rafael Kazuhito!
 
 -  Estudando HTML, CSS, PHP e JavaScript
--  Cursando Análise e desenvolvimento de sistemas
+-  Graduando em Análise e desenvolvimento de sistemas
+-  Estagiário 
 
 <div align="center">
   <a href="https://github.com/rkazuhito">
