@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/rkazuhito">
-  ![rkazuhito's Stats](https://github-readme-stats.vercel.app/api?username=rkazuhito&theme=solarized-dark&show_icons=true&hide_border=false&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=rkazuhito&theme=solarized-dark&show_icons=true&hide_border=false&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkazuhito&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
