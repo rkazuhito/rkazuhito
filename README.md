@@ -6,7 +6,7 @@
 
 ### Olá, eu sou o Rafael Kazuhito!
 
--  Estudando PHP e JavaScript
+-  Estudando Python, PHP e JavaScript
 -  Graduando em Análise e desenvolvimento de sistemas
 -  Trabalhando como estagiário 
 
