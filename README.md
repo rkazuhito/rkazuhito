@@ -10,7 +10,6 @@
 -  Graduando em Análise e desenvolvimento de sistemas
 -  Trabalhando como estagiário 
 
-
 <div align="center">
   <a href="https://github.com/rkazuhito">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rkazuhito&theme=solarized-dark&show_icons=true&hide_border=false&count_private=true"> 
