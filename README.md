@@ -16,4 +16,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkazuhito&theme=solarized-dark&show_icons=true&hide_border=false&layout=compact"/> <br>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rkazuhito&theme=solarized-dark&hide_border=false"/>
 </div>
-
