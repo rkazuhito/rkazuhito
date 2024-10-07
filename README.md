@@ -8,7 +8,7 @@
 
 -  Estudando C++, C#, PHP, JavaScript e Java
 -  Graduando em Análise e desenvolvimento de sistemas
--  Trabalhando como estagiário 
+-  Trabalhando como técnico de TI e analista de dados
 
 <div align="center">
   <a href="https://github.com/rkazuhito">
