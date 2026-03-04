@@ -6,7 +6,7 @@
 
 ### Olá, eu sou o Rafael Kazuhito!
 
--  Estudando C++, C#, PHP, JavaScript e Java
+-  Estudando C++, C#, PHP, JavaScript e Python
 -  Graduando em Análise e desenvolvimento de sistemas
 -  Trabalhando como técnico de TI e analista de dados
 
