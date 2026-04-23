@@ -8,7 +8,7 @@
 
 -  Estudando C, PHP, JavaScript e Python
 -  Graduando em Análise e desenvolvimento de sistemas
--  Trabalhando como técnico de TI e analista de dados
+-  Trabalhando como técnico de TI
 
 <div align="center">
   <a href="https://github.com/rkazuhito">
